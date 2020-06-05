@@ -1,0 +1,2 @@
+react native picker select
+    fazer o select da api do IBGE
